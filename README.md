@@ -1,5 +1,6 @@
 # blood-cancer-detection
 
+http://127.0.0.1:7860/
 
 ## Training
 
