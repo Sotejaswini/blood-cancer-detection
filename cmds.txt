@@ -1,0 +1,14 @@
+#Training
+python3 src/train.py --data_root ./data/Original --save_dir ./artifacts_v2
+
+#Evaluation
+python3 src/train_enhanced_v2.py --data_root ./data/Original --save_dir ./artifacts_v2
+
+#Inference
+python3 src/app.py --artifacts ./artifacts_v2
+
+open in http://0.0.0.0:7860
+For browser to display try :
+http://127.0.0.1:7860
+or
+http://localhost:7860
