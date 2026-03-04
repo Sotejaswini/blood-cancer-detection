@@ -21,6 +21,7 @@ The model classifies smear images into four diagnostic stages:
 
 Source: Mehrad Aria’s Leukemia Blood Smear Dataset (Kaggle)  
 https://www.kaggle.com/datasets/mehradaria/leukemia
+
 Total Images: 3,256  
 
 Class Distribution:
